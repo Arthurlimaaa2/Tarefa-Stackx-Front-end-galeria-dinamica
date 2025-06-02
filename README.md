@@ -1,0 +1,1 @@
+# Tarefa-Stackx-Front-end-galeria-dinamica
